@@ -437,8 +437,8 @@ const Home = () => {
                         <div className="decor-card">
                             <div className="decor-img-wrapper">
                                 <img
-                                    src="https://images.unsplash.com/photo-1501594907352-04cda38ebc29?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
-                                    alt="Brass Vastu Wind Chime with 6 Tubes"
+                                    src="https://images.unsplash.com/photo-1692107112697-aca539554bc0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cG9vamElMjB0aGFsaXxlbnwwfHwwfHx8MA%3D%3D"
+                                    alt="Pure Brass  Swastik Design Pooja Thali ( 30 cm )"
                                 />
                             </div>
                             <div className="decor-content">
@@ -448,9 +448,9 @@ const Home = () => {
                                     </div>
                                     <div className="decor-colors muted"></div>
                                 </div>
-                                <h3 className="decor-title">Brass Vastu Wind Chime with 6 Tubes</h3>
+                                <h3 className="decor-title">Pure Brass  Swastik Design Pooja Thali ( 30 cm )</h3>
                                 <div className="decor-price-row">
-                                    <span className="decor-price-current">₹849.00</span>
+                                    <span className="decor-price-current">₹1000.00</span>
                                     <span className="decor-price-old">₹1,499.00</span>
                                 </div>
                             </div>
@@ -459,7 +459,7 @@ const Home = () => {
                         <div className="decor-card">
                             <div className="decor-img-wrapper">
                                 <img
-                                    src="https://images.unsplash.com/photo-1531930870731-2a30f1a1a2b6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+                                    src="https://media.istockphoto.com/id/478053835/photo/brass-metal-wall-hanging-with-bells-aum-and-ganesha.webp?a=1&b=1&s=612x612&w=0&k=20&c=XiDeNLE5MuqxuzheL4zmSGYTBaHCUsvMpGeh8pIu9ME="
                                     alt="Shree Yantra Copper Wall Hanging"
                                 />
                             </div>
